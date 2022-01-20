@@ -2,7 +2,7 @@
 # draumaz/jmake, 2021
 
 if [ "$1" = -c ]; then rm *.{txt,jar} > /dev/null 2>&1; exit; fi # Directory cleanup for temp files
-echo -e "\nJMake, by draumaz (2021)\n"
+echo -e "\nJMake, by draumaz (2022)\n"
 echo -n "Creating classes..."
 if javac *.java; then echo "     PASS"; else echo -e "\nFailed to generate classes."; exit; fi # Initial class creation via javac
 echo -n "Compressing..."
