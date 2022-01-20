@@ -1,5 +1,5 @@
 Write-Output ""
-Write-Output "JMake, by draumaz (2021)"
+Write-Output "JMake, by draumaz (2022)"
 Write-Output ""
 Write-Host -NoNewLine "Creating classes... "
 $build = "javac *.java"
