@@ -9,7 +9,7 @@ Run the script inside of your source folder, and jmake will:
 
 #### Compile a .jar file using main() as entry point
 
-#### Delete the aformentioned class files
+#### Delete the aforementioned class files
 
 # Download
 Grab a shell script from the root directory. We've got Bash and PowerShell flavors.
