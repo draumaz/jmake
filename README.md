@@ -13,3 +13,10 @@ Run the script inside of your source folder, and jmake will:
 
 # Download
 Grab a shell script from the root directory. We've got Bash and PowerShell flavors.
+
+## Add a temporary environment variable
+
+```
+cd /path/to/jmake/clone
+export jmake="sh $PWD/jmake.sh"
+```
