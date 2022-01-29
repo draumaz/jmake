@@ -1,7 +1,7 @@
 # jmake
 This is a simple shell-based Java compile wrapper.
 
-![Screenie](https://github.com/draumaz/jmake/raw/main/headline.jpg "Screenshot")
+![Screenie](https://github.com/draumaz/jmake/raw/main/headline.svg "Screenshot")
 
 Run the script inside of your source folder, and jmake will:
 
